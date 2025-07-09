@@ -63,3 +63,15 @@ a {
 	font-weight: 400;
 	font-style: normal;
 }
+
+.video-container {
+    width: 300px; /* Adjust as needed */
+    height: auto;
+    margin: 0 auto;
+}
+
+.video-container video {
+    width: 100%;
+    height: auto;
+    border-radius: 8px; /* Optional for rounded corners */
+}
