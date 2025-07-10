@@ -44,9 +44,10 @@ body {
 }
 
 .video-container video {
-    width: 100%;
-    height: auto;
-    border-radius: 8px; /* Optional for rounded corners */
+	max-width: 350px;
+	width: 100%;
+	height: auto;
+	border-radius: 8px; /* Optional for rounded corners */
 }
 
 /*! Link */
