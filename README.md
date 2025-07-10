@@ -1,3 +1,4 @@
 # prj-frontend-temp.zimin.dev
-<img width="1907" height="1038" alt="image" src="https://github.com/user-attachments/assets/8dfc3056-d319-473d-b81a-a80186788212" />
+<img width="1831" height="1036" alt="image" src="https://github.com/user-attachments/assets/42689bb9-58a2-471e-994b-782a1f163429" />
+
 
