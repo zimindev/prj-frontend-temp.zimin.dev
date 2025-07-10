@@ -1,2 +1,3 @@
 # prj-frontend-temp.zimin.dev
-![image](https://github.com/user-attachments/assets/a14065e4-88e5-4500-9451-d05ce383bee6)
+<img width="1907" height="1038" alt="image" src="https://github.com/user-attachments/assets/8dfc3056-d319-473d-b81a-a80186788212" />
+
